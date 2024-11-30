@@ -1,7 +1,5 @@
-## Hi there 👋
-I'am Xuan from Vietnam and I am experienced in Data Analytics.
-
-I'm currently pursuing a Master’s in Data Science, focusing on machine learning and big data to drive innovation and support strategic goals. 
+## Hi I'm Xuan 👋
+Experienced in Data Analytics & crrently pursuing a Master’s in Data Science, focusing on machine learning and big data to drive innovation and support strategic goals. 
 
 You can check out my LinkedIn https://www.linkedin.com/in/xuan-le-26547a48/.
 
