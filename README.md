@@ -3,7 +3,7 @@ I'am Xuan from Vietnam and I am experienced in Data Analytics.I'm currently purs
 
 You can check out my LinkedIn https://www.linkedin.com/in/xuan-le-26547a48/.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/ap?username=LeXuanNT&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeXuanNT)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
