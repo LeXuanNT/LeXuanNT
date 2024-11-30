@@ -9,14 +9,10 @@ Hiding individual stats
 
 Showing additional individual stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-Showing icons
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeXuanNT&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 Themes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeXuanNT&show_icons=true&theme=radical)
 
 
 ### Hi there 👋, my name is Arturs
