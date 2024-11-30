@@ -9,5 +9,5 @@ Compact Language Card Layout
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeXuanNT&layout=compact)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=LeXuanNT&hide=B,B%2B&hide_contributor_rank=false&limit=5)
+
 
