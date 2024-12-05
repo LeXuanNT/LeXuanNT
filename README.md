@@ -2,7 +2,7 @@
 Experienced in Data Analytics & currently pursuing a Master’s in Data Science, focusing on machine learning and big data to drive innovation and support strategic goals. 
 
 ## Skills and Experience: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vba,vscode,js,html,css,wasm)](https://skillicons.dev)
 👯
 
 * ![image](https://github.com/user-attachments/assets/8b972794-b6a6-4622-adc5-a71bc59d0b70)
