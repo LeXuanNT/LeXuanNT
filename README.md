@@ -3,6 +3,8 @@ Experienced in Data Analytics & currently pursuing a Master’s in Data Science,
 
 ## Skills and Experience: 
 * ![image](https://github.com/user-attachments/assets/8b972794-b6a6-4622-adc5-a71bc59d0b70)
+* ![image](https://github.com/user-attachments/assets/b185bf09-968a-4403-9545-f32eb8cfd6ef)
+
 PYTHON
 * VBA / ORACLE P/LSQL 
 
