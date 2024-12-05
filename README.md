@@ -1,5 +1,5 @@
 ## Hi I'm Xuan 👋
-Experienced in Data Analytics & crrently pursuing a Master’s in Data Science, focusing on machine learning and big data to drive innovation and support strategic goals. 
+Experienced in Data Analytics & currently pursuing a Master’s in Data Science, focusing on machine learning and big data to drive innovation and support strategic goals. 
 
 You can check out my LinkedIn https://www.linkedin.com/in/xuan-le-26547a48/
 
